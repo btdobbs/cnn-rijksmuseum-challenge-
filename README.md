@@ -2,13 +2,13 @@
 ## Data
 To retrieve data for the experiment, please try the data references from one of the following articles:
 
--http://ieeexplore.ieee.org/document/7123719/
--https://doi.org/10.1145/2578726.2578791
+- http://ieeexplore.ieee.org/document/7123719/
+- https://doi.org/10.1145/2578726.2578791
 
 If the links are dead from the above references, please try the source.
 
--https://www.rijksmuseum.nl/en/research/conduct-research/data
--https://www.rijksmuseum.nl
+- https://www.rijksmuseum.nl/en/research/conduct-research/data
+- https://www.rijksmuseum.nl
 
 
 If you need to go directly to the source, you may need to filter images that were not in the data set at the time of the experiment.  The file names of all images used in experiments is located in the images.txt file in the root of this repository.
